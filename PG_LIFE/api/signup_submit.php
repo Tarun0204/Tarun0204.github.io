@@ -31,7 +31,6 @@ echo json_encode($response);
 mysqli_close($conn);
 
 if($result) {
-    $response = array("success" => true, "message" => "Your account has been created successfully!");;
-    header('location: dashboard.php');
+    $response = array("success" => true, "message" => "Your account has been created successfully!");
 }
 ?>
