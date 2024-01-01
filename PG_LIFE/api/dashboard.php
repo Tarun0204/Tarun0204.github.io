@@ -67,9 +67,9 @@ require "../includes/database_connect.php";
             <div class="row no-gutters justify-content-between align-items-end">
                 <div class="profile">
                     <div class="name">Hii</div>
-                    <div class="email">User</div>
-                    <div class="phone">+91 9876543210</div>
-                    <div class="college">Internshala</div>
+                    <div class="email">Tarun Kumar</div>
+                    <div class="phone">+91 9849267182</div>
+                    <div class="college">BITS-VIZAG</div>
                 </div>
                 <div class="edit">
                     <div class="edit-profile">Edit Profile</div>
