@@ -28,7 +28,7 @@ require "../includes/database_connect.php";
         <div class="collapse navbar-collapse justify-content-end" id="my-navbar">
             <ul class="navbar-nav">
                 <div class='nav-name'>
-                    Hi, User
+                    Hi, Tarun
                 </div>
                 <li class="nav-item">
                     <a class="nav-link" href="../api/dashboard.php">
@@ -66,8 +66,8 @@ require "../includes/database_connect.php";
         <div class="col-md-9">
             <div class="row no-gutters justify-content-between align-items-end">
                 <div class="profile">
-                    <div class="name">Hii</div>
-                    <div class="email">Tarun Kumar</div>
+                    <div class="name">Hii, Tarunkumar</div>
+                    <div class="email">mr.tarun0402@gmail.com</div>
                     <div class="phone">+91 9849267182</div>
                     <div class="college">BITS-VIZAG</div>
                 </div>
